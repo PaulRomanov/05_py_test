@@ -1,4 +1,4 @@
-# [рабочая версия приложения](https://vercel.com/pavelramanau-gmailcom/05-py-test)
+# [рабочая версия приложения](https://05-py-test-git-main-pavelramanau-gmailcom.vercel.app/)
 
 ## Project setup
 ```
